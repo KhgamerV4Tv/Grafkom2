@@ -1,0 +1,38 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl idr_tv01_lm1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd idr_tv01_lm1.png
+map_Ka idr_tv01_lm1.png
+map_d idr_tv01_lm1.png
+
+newmtl in02_kage_1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd in02_kage_1.png
+map_Ka in02_kage_1.png
+map_d in02_kage_1.png
+
+newmtl tv
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tv.png
+map_Ka tv.png
+map_d tv.png
